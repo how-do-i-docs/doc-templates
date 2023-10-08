@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://howdoidocs.tech">
     <img src="https://github.com/how-do-i-docs/design/raw/main/assets/howdoidocs-logo-bg.svg" height="96">
-    <h1 align="center">How Do I Docs? — Templates</h1>
+    <h1 align="center">How Do I Docs? — Doc Templates</h1>
   </a>
 </p>
 
